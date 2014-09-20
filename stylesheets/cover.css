@@ -144,3 +144,9 @@ body{color:#404040; text-decoration:none;}
     margin-bottom: 2px;
     z-index: 4000;
 }
+.inner.cover {
+  padding-bottom: 40px;
+}
+.masthead.clearfix {
+  z-index: 1000;
+}
