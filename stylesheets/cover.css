@@ -76,6 +76,7 @@ body{color:#404040; text-decoration:none;}
 }
 .gbqfb {
     background: -moz-linear-gradient(center top , #4d90fe, #4787ed) repeat scroll 0 0 #4d90fe;
+	background-color: #3079ed;
     border: 1px solid #3079ed;
     color: #ffffff !important;
     margin-bottom: 2px;
@@ -139,6 +140,7 @@ body{color:#404040; text-decoration:none;}
 }
 .gbqfb_red {
     background: -moz-linear-gradient(center top , #ff0000, #ff0000) repeat scroll 0 0 #ff0000;
+	background-color: #ff0000;
     border: 1px solid #ff0000;
     color: #ffffff !important;
     margin-bottom: 2px;
